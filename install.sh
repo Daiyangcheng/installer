@@ -259,7 +259,7 @@ function Init_Panel(){
 
 function Show_Result(){
     log ""
-    log "=================感谢您的耐心等待，安装已经完成=================="
+    log "================感谢您的耐心等待，安装已经完成=================="
     log ""
     log "请用浏览器访问面板:"
     log "面板地址: http://\$LOCAL_IP:$PANEL_PORT/$PANEL_ENTRANCE"
